@@ -1,26 +1,26 @@
-# ☕ Sentiment Analysis on Starbucks Reviews
+# ☕ Analyse de Sentiment des Avis sur Starbucks
 
-## 📌 Project Overview
-This project aims to analyze customer sentiment from Starbucks reviews using **Natural Language Processing (NLP)** techniques and **Machine Learning classification models**.
+## 📌 Aperçu du Projet
+Ce projet vise à analyser le sentiment des clients à partir des avis sur Starbucks en utilisant des techniques de **traitement automatique du langage (NLP)** et des **modèles de classification en apprentissage automatique**.
 
-The goal is to build an end-to-end NLP pipeline:
-- Text cleaning & preprocessing
-- Feature extraction
-- Model training and evaluation
-- Clear visualization of results
+L'objectif est de construire un pipeline NLP complet :
+- Nettoyage et prétraitement du texte
+- Extraction de caractéristiques
+- Entraînement et évaluation du modèle
+- Visualisation claire des résultats
 
-This project is part of my **Data Science portfolio**.
-
----
-
-## 🧠 Problem Statement
-Understanding customer sentiment is critical for brands to:
-- Measure customer satisfaction
-- Identify negative feedback early
-- Improve products and services
-
-Given a dataset of Starbucks customer reviews, the task is to classify reviews as **positive or negative** based on their textual content.
+Ce projet fait partie de mon **portfolio en Data Science**.
 
 ---
 
-## 🗂 Project Structure
+## 🧠 Problématique
+Comprendre le sentiment des clients est essentiel pour les marques afin de :
+- Mesurer la satisfaction client
+- Identifier rapidement les retours négatifs
+- Améliorer les produits et services
+
+Étant donné un jeu de données d'avis de clients Starbucks, la tâche consiste à classifier les avis comme **positifs ou négatifs** en fonction de leur contenu textuel.
+
+---
+
+## 🗂 Structure du Projet
