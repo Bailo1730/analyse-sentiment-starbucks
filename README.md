@@ -22,5 +22,6 @@ Comprendre le sentiment des clients est essentiel pour les marques afin de :
 Étant donné un jeu de données d'avis de clients Starbucks, la tâche consiste à classifier les avis comme **positifs ou négatifs** en fonction de leur contenu textuel.
 
 ---
-
+Source des données: https://www.kaggle.com/datasets/harshalhonde/starbucks-reviews-dataset
 ## 🗂 Structure du Projet
+
